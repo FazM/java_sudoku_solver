@@ -1,0 +1,10 @@
+run() method Iterates up to the 4th row using the brute force method, it does not 'solve' effectively beyond the 4th row.
+216354798
+478169253
+539287146
+943528671
+001000900
+085090002
+000030064
+000640087
+000000030
