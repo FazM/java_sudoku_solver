@@ -8,3 +8,5 @@ easy : success!
 fiendish :  a bit hard! partial success
 
 Done on 01/2013
+
+now it is redundant!
