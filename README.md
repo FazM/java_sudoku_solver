@@ -1,12 +1,11 @@
 # java_sudoku_solver
 
-Solver for a sudoku xml files. Input from .xml and output to .txt
+Basic Java Sudoku Solver for Sudoku problems.
 
-easy and fiendish sudoku puzzles.
+Sudoku inputs (easy & fiendish) from .xml and output to .txt file.
 
-easy : success!
-fiendish :  a bit hard! partial success
+Two .xml files with varying difficulties.
 
-Done on 01/2013
+Last modified in early 2013.
 
-now it is redundant!
+
